@@ -1,8 +1,8 @@
 # Top Homepage
-A list of popular projects related tohomepage, homelab, self-hosted, startpage, single-page(ranked by stars automatically)
+A list of popular projects related tohomepage, homelab, self-hosted, startpage, single-page, bookmark(ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
-Tips：这是一份关于 homepage, homelab, self-hosted, startpage, single-page 的导航页名单，每周一 UTC 时间下午 1 点自动更新 github 状态，如果有新的导航页，可以 issues 或者 pr “list.txt” 文件给我。
+Tips：这是一份关于 homepage, homelab, self-hosted, startpage, single-page, bookmark 的导航页名单，每周一 UTC 时间下午 1 点自动更新 github 状态，如果有新的导航页，可以 issues 或者 pr “list.txt” 文件给我。
 
 source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) and [Reddit startpages](https://www.reddit.com/r/startpages/)
 
@@ -44,5 +44,6 @@ source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/a
 | [aquar-home](https://github.com/firemakergk/aquar-home) | 35 | 2 | 0 | None | 2021-12-29 14:40:21 |
 | [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | 13 | 6 | 0 | WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 | 2021-12-23 07:48:11 |
 | [iTab](https://www.itab.link/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
+| [Infinity](https://en.infinitynewtab.com/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 
-*Last Automatic Update: 2022-01-17T06:32:47*
+*Last Automatic Update: 2022-01-17T06:47:37*
