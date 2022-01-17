@@ -8,21 +8,25 @@ source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/a
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [wekan](https://github.com/wekan/wekan) | 17704 | 2678 | 703 | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only. | 2022-01-16 19:49:48 |
+| [wekan](https://github.com/wekan/wekan) | 17705 | 2678 | 703 | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only. | 2022-01-16 19:49:48 |
+| [kanboard](https://github.com/kanboard/kanboard) | 6373 | 1561 | 192 | Kanban project management software | 2021-12-16 22:20:55 |
 | [shiori](https://github.com/go-shiori/shiori) | 5374 | 371 | 94 | Simple bookmark manager built with Go | 2020-08-20 16:38:54 |
-| [homer](https://github.com/bastienwirtz/homer) | 3986 | 365 | 85 | A very simple static homepage for your server. | 2021-12-23 15:41:59 |
+| [homer](https://github.com/bastienwirtz/homer) | 3988 | 366 | 85 | A very simple static homepage for your server. | 2021-12-23 15:41:59 |
 | [Organizr](https://github.com/causefx/Organizr) | 3661 | 257 | 16 | HTPC/Homelab Services Organizer - Written in PHP | 2021-11-12 22:38:05 |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | 3620 | 329 | 193 | An Application dashboard and launcher | 2020-12-07 12:39:14 |
 | [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 3129 | 1012 | 42 | ❤️静态响应式网址导航网站 - webstack.cc | 2021-09-15 09:24:35 |
-| [WebStack-Laravel](https://github.com/hui-ho/WebStack-Laravel) | 1921 | 548 | 42 | 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。 | 2020-08-13 13:51:56 |
+| [WebStack-Laravel](https://github.com/hui-ho/WebStack-Laravel) | 1921 | 549 | 42 | 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。 | 2020-08-13 13:51:56 |
+| [board](https://github.com/RestyaPlatform/board) | 1821 | 382 | 166 | Trello like kanban board. Based on Restya platform. | 2021-12-11 07:48:39 |
+| [react-trello](https://github.com/rcdexta/react-trello) | 1791 | 402 | 119 | Pluggable components to add a kanban board to your application | 2021-09-22 12:25:14 |
+| [planka](https://github.com/plankanban/planka) | 1467 | 132 | 116 | The realtime kanban board for workgroups built with React and Redux. | 2021-12-29 19:30:53 |
 | [flame](https://github.com/pawelmalak/flame) | 1464 | 84 | 53 | Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. | 2022-01-08 13:49:07 |
 | [geek-navigation](https://github.com/geekape/geek-navigation) | 1111 | 350 | 16 | ❤️ 极客猿导航－独立开发者的导航站！ | 2021-09-29 08:02:06 |
 | [Muximux](https://github.com/mescon/Muximux) | 1077 | 78 | 42 | A lightweight way to manage your HTPC | 2021-03-21 20:28:25 |
 | [LinkAce](https://github.com/Kovah/LinkAce) | 1021 | 79 | 43 | Your self-hosted bookmark archive. Free and open source. | 2022-01-14 11:53:20 |
 | [nightTab](https://github.com/zombieFox/nightTab) | 993 | 150 | 51 | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | 2021-12-14 18:58:02 |
 | [dashy](https://github.com/Lissy93/dashy) | 985 | 85 | 12 | 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! | 2022-01-16 01:27:15 |
+| [sui](https://github.com/jeroenpardon/sui) | 970 | 131 | 7 | a startpage for your server and / or new tab page | 2021-12-05 01:19:39 |
 | [DashMachine](https://github.com/rmountjoy92/DashMachine) | 969 | 102 | 70 | Another web application bookmark dashboard, with fun features. | 2020-09-22 11:42:23 |
-| [sui](https://github.com/jeroenpardon/sui) | 969 | 131 | 7 | a startpage for your server and / or new tab page | 2021-12-05 01:19:39 |
 | [Bento](https://github.com/migueravila/Bento) | 827 | 1240 | 3 | 🍱 The minimalist, elegant and hackable startpage. | 2022-01-02 05:22:04 |
 | [tottem](https://github.com/poulainv/tottem) | 776 | 83 | 30 | Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺 | 2020-05-13 14:19:21 |
 | [sou](https://github.com/5iux/sou) | 763 | 263 | 3 | 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。 | 2021-08-02 14:31:55 |
@@ -46,4 +50,4 @@ source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/a
 | [iTab](https://www.itab.link/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 | [Infinity](https://en.infinitynewtab.com/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 
-*Last Automatic Update: 2022-01-17T06:47:37*
+*Last Automatic Update: 2022-01-17T10:37:54*
