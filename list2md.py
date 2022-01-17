@@ -8,7 +8,7 @@ head = '''# Top Homepage
 A list of popular projects related tohomepage, homelab, self-hosted, startpage, single-page(ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
-Tips：这是一份关于 homepage, homelab, self-hosted, startpage, single-page 的导航页名单，每天 UTC 时间上午 9 点自动更新 github 状态，如果有新的导航页，可以 issues 或者 pr “list.txt” 文件给我。
+Tips：这是一份关于 homepage, homelab, self-hosted, startpage, single-page 的导航页名单，每周一 UTC 时间下午 1 点自动更新 github 状态，如果有新的导航页，可以 issues 或者 pr “list.txt” 文件给我。
 
 source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) and [Reddit startpages](https://www.reddit.com/r/startpages/)
 
