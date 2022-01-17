@@ -34,3 +34,4 @@ https://github.com/timothypholmes/startup-page
 https://github.com/grtcdr/startpages
 https://github.com/manilarome/the-glorious-startpage
 https://www.itab.link/,iTab,no github
+https://en.infinitynewtab.com/,Infinity,no github
