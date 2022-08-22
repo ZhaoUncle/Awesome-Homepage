@@ -43,5 +43,6 @@ https://github.com/Smashing/smashing
 https://github.com/jmztaylor/homelab_proxy
 https://github.com/kutyla-philipp/simple-dash
 https://github.com/dmego/home.github.io
+https://github.com/usememos/memos
 https://www.itab.link/,iTab,no github
 https://en.infinitynewtab.com/,Infinity,no github
