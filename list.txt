@@ -44,5 +44,6 @@ https://github.com/jmztaylor/homelab_proxy
 https://github.com/kutyla-philipp/simple-dash
 https://github.com/dmego/home.github.io
 https://github.com/usememos/memos
+https://github.com/xjh22222228/nav
 https://www.itab.link/,iTab,no github
 https://en.infinitynewtab.com/,Infinity,no github
