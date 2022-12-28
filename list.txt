@@ -46,5 +46,6 @@ https://github.com/dmego/home.github.io
 https://github.com/usememos/memos
 https://github.com/xjh22222228/nav
 https://github.com/toboshii/hajimari
+https://github.com/leon-kfd/Dashboard
 https://www.itab.link/,iTab,no github
 https://en.infinitynewtab.com/,Infinity,no github
