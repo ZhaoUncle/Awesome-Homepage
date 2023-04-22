@@ -49,3 +49,4 @@ https://github.com/toboshii/hajimari
 https://github.com/leon-kfd/Dashboard
 https://www.itab.link/,iTab,no github
 https://en.infinitynewtab.com/,Infinity,no github
+https://github.com/ajnart/homarr
