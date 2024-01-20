@@ -51,3 +51,4 @@ https://www.itab.link/,iTab,no github
 https://en.infinitynewtab.com/,Infinity,no github
 https://github.com/ajnart/homarr
 https://github.com/RayeRen/acad-homepage.github.io
+https://github.com/hywax/mafl
