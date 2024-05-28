@@ -53,3 +53,5 @@ https://en.infinitynewtab.com/,Infinity,no github
 https://github.com/ajnart/homarr
 https://github.com/RayeRen/acad-homepage.github.io
 https://github.com/hywax/mafl
+https://github.com/hslr-s/sun-panel
+https://github.com/mattermost/focalboard
