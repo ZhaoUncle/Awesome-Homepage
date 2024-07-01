@@ -13,7 +13,6 @@ https://github.com/WebStackPage/WebStackPage.github.io
 https://github.com/shenweiyan/WebStack-Hugo
 https://github.com/iplaycode/webstack-hugo
 https://github.com/liutongxu/liutongxu.github.io
-https://github.com/hui-ho/WebStack-Laravel
 https://github.com/gesquive/slate
 https://github.com/fr0tt/benotes
 https://github.com/devimust/easy-bookmark-manager
