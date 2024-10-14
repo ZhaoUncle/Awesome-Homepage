@@ -8,62 +8,62 @@ source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/a
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [memos](https://github.com/usememos/memos) | 30590 | 2291 | 35 | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. | 2024-10-06 17:57:37 |
-| [focalboard](https://github.com/mattermost-community/focalboard) | 21539 | 1920 | 740 | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | 2024-09-27 13:56:16 |
-| [wekan](https://github.com/wekan/wekan) | 19488 | 2830 | 638 | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. | 2024-10-03 02:44:19 |
-| [dashy](https://github.com/Lissy93/dashy) | 17119 | 1309 | 96 | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | 2024-10-06 01:28:48 |
-| [shiori](https://github.com/go-shiori/shiori) | 9275 | 551 | 80 | Simple bookmark manager built with Go | 2024-10-05 20:25:24 |
-| [homer](https://github.com/bastienwirtz/homer) | 9192 | 780 | 180 | A very simple static homepage for your server. | 2024-07-16 11:48:04 |
-| [kanboard](https://github.com/kanboard/kanboard) | 8435 | 1801 | 152 | Kanban project management software | 2024-10-05 04:46:10 |
-| [planka](https://github.com/plankanban/planka) | 7822 | 727 | 299 | The realtime kanban board for workgroups built with React and Redux. | 2024-10-03 17:07:59 |
-| [Heimdall](https://github.com/linuxserver/Heimdall) | 7768 | 538 | 25 | An Application dashboard and launcher | 2024-03-31 20:40:31 |
-| [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 6350 | 1796 | 80 | ❤️静态响应式网址导航网站 - webstack.cc | 2023-11-30 15:41:09 |
-| [homarr](https://github.com/ajnart/homarr) | 6024 | 277 | 199 | Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) | 2024-09-29 20:24:21 |
-| [flame](https://github.com/pawelmalak/flame) | 5224 | 254 | 158 | Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. | 2023-07-23 12:51:23 |
-| [Organizr](https://github.com/causefx/Organizr) | 5130 | 290 | 21 | HTPC/Homelab Services Organizer - Written in PHP | 2024-04-16 13:55:35 |
-| [smashing](https://github.com/Smashing/smashing) | 3230 | 324 | 21 | The exceptionally handsome dashboard framework in Ruby and Coffeescript. | 2023-03-10 21:09:18 |
-| [sun-panel](https://github.com/hslr-s/sun-panel) | 2628 | 272 | 84 | A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 | 2024-04-26 05:40:58 |
-| [sun-panel](https://github.com/hslr-s/sun-panel) | 2628 | 272 | 84 | A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 | 2024-04-26 05:40:58 |
-| [LinkAce](https://github.com/Kovah/LinkAce) | 2585 | 160 | 54 | LinkAce is a self-hosted archive to collect links of your favorite websites. | 2024-09-23 21:11:59 |
-| [nav](https://github.com/xjh22222228/nav) | 2195 | 1268 | 1 | 🔍 发现导航 , 最强轻量级导航网站 | 2024-09-27 08:40:38 |
-| [react-trello](https://github.com/rcdexta/react-trello) | 2188 | 481 | 151 | Pluggable components to add a kanban board to your application | 2023-03-15 07:01:12 |
-| [board](https://github.com/RestyaPlatform/board) | 2037 | 381 | 188 | Trello like kanban board. Based on Restya platform. | 2022-03-12 10:24:19 |
-| [Bento](https://github.com/migueravila/Bento) | 2018 | 2522 | 24 | 🍱 The minimalist, elegant and hackable startpage. | 2022-12-22 14:42:28 |
-| [docker-flare](https://github.com/soulteary/docker-flare) | 1769 | 149 | 98 | Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M | 2024-01-06 03:31:22 |
-| [geek-navigation](https://github.com/geekape/geek-navigation) | 1765 | 503 | 24 | ❤️ 极客猿导航－独立开发者的导航站！ | 2021-09-29 08:02:06 |
-| [nightTab](https://github.com/zombieFox/nightTab) | 1726 | 251 | 94 | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | 2024-08-10 11:21:56 |
-| [sui](https://github.com/jeroenpardon/sui) | 1372 | 183 | 6 | a startpage for your server and / or new tab page | 2022-02-12 01:46:27 |
-| [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) | 1347 | 2545 | 40 | AcadHomepage: A Modern and Responsive Academic Personal Homepage | 2023-03-26 14:05:15 |
-| [DashMachine](https://github.com/rmountjoy92/DashMachine) | 1236 | 121 | 81 | Another web application bookmark dashboard, with fun features. | 2020-09-22 11:42:23 |
-| [Muximux](https://github.com/mescon/Muximux) | 1140 | 82 | 46 | A lightweight way to manage your HTPC | 2022-05-03 14:12:45 |
-| [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | 1002 | 299 | 3 | WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 | 2024-08-14 01:41:13 |
+| [memos](https://github.com/usememos/memos) | 30744 | 2301 | 36 | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. | 2024-10-14 01:46:48 |
+| [focalboard](https://github.com/mattermost-community/focalboard) | 21593 | 1928 | 741 | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | 2024-09-27 13:56:16 |
+| [wekan](https://github.com/wekan/wekan) | 19516 | 2833 | 642 | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. | 2024-10-03 02:44:19 |
+| [dashy](https://github.com/Lissy93/dashy) | 17203 | 1313 | 100 | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | 2024-10-13 01:28:55 |
+| [shiori](https://github.com/go-shiori/shiori) | 9294 | 552 | 84 | Simple bookmark manager built with Go | 2024-10-12 11:24:56 |
+| [homer](https://github.com/bastienwirtz/homer) | 9216 | 781 | 180 | A very simple static homepage for your server. | 2024-07-16 11:48:04 |
+| [kanboard](https://github.com/kanboard/kanboard) | 8448 | 1801 | 153 | Kanban project management software | 2024-10-08 04:06:30 |
+| [planka](https://github.com/plankanban/planka) | 7878 | 731 | 299 | The realtime kanban board for workgroups built with React and Redux. | 2024-10-09 12:53:16 |
+| [Heimdall](https://github.com/linuxserver/Heimdall) | 7792 | 540 | 23 | An Application dashboard and launcher | 2024-03-31 20:40:31 |
+| [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 6361 | 1801 | 80 | ❤️静态响应式网址导航网站 - webstack.cc | 2023-11-30 15:41:09 |
+| [homarr](https://github.com/ajnart/homarr) | 6055 | 277 | 202 | Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) | 2024-09-29 20:24:21 |
+| [flame](https://github.com/pawelmalak/flame) | 5234 | 254 | 159 | Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. | 2023-07-23 12:51:23 |
+| [Organizr](https://github.com/causefx/Organizr) | 5145 | 290 | 22 | HTPC/Homelab Services Organizer - Written in PHP | 2024-04-16 13:55:35 |
+| [smashing](https://github.com/Smashing/smashing) | 3233 | 324 | 21 | The exceptionally handsome dashboard framework in Ruby and Coffeescript. | 2023-03-10 21:09:18 |
+| [sun-panel](https://github.com/hslr-s/sun-panel) | 2661 | 276 | 85 | A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 | 2024-04-26 05:40:58 |
+| [sun-panel](https://github.com/hslr-s/sun-panel) | 2661 | 276 | 85 | A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。 | 2024-04-26 05:40:58 |
+| [LinkAce](https://github.com/Kovah/LinkAce) | 2589 | 161 | 56 | LinkAce is a self-hosted archive to collect links of your favorite websites. | 2024-09-23 21:11:59 |
+| [nav](https://github.com/xjh22222228/nav) | 2205 | 1288 | 3 | 🔍 发现导航 , 最强轻量级导航网站 | 2024-10-01 08:22:46 |
+| [react-trello](https://github.com/rcdexta/react-trello) | 2187 | 482 | 151 | Pluggable components to add a kanban board to your application | 2023-03-15 07:01:12 |
+| [board](https://github.com/RestyaPlatform/board) | 2039 | 382 | 188 | Trello like kanban board. Based on Restya platform. | 2022-03-12 10:24:19 |
+| [Bento](https://github.com/migueravila/Bento) | 2022 | 2527 | 24 | 🍱 The minimalist, elegant and hackable startpage. | 2022-12-22 14:42:28 |
+| [docker-flare](https://github.com/soulteary/docker-flare) | 1777 | 149 | 98 | Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M | 2024-01-06 03:31:22 |
+| [geek-navigation](https://github.com/geekape/geek-navigation) | 1767 | 504 | 24 | ❤️ 极客猿导航－独立开发者的导航站！ | 2021-09-29 08:02:06 |
+| [nightTab](https://github.com/zombieFox/nightTab) | 1731 | 251 | 95 | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | 2024-08-10 11:21:56 |
+| [sui](https://github.com/jeroenpardon/sui) | 1375 | 183 | 6 | a startpage for your server and / or new tab page | 2022-02-12 01:46:27 |
+| [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) | 1362 | 2593 | 42 | AcadHomepage: A Modern and Responsive Academic Personal Homepage | 2023-03-26 14:05:15 |
+| [DashMachine](https://github.com/rmountjoy92/DashMachine) | 1237 | 121 | 81 | Another web application bookmark dashboard, with fun features. | 2020-09-22 11:42:23 |
+| [Muximux](https://github.com/mescon/Muximux) | 1140 | 82 | 45 | A lightweight way to manage your HTPC | 2022-05-03 14:12:45 |
+| [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | 1010 | 306 | 4 | WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 | 2024-08-14 01:41:13 |
 | [tottem](https://github.com/poulainv/tottem) | 978 | 99 | 46 | Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺 | 2020-05-13 14:19:21 |
-| [sou](https://github.com/5iux/sou) | 941 | 291 | 7 | 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。 | 2021-08-02 14:31:55 |
-| [Dashboard](https://github.com/leon-kfd/Dashboard) | 935 | 116 | 6 | Custom your personal browser start page from some configurable components. | 2024-09-10 02:23:28 |
-| [tilde](https://github.com/xvvvyz/tilde) | 822 | 263 | 2 | Minimal browser startpage. | 2024-09-30 04:04:47 |
-| [aquar-home](https://github.com/firemakergk/aquar-home) | 818 | 72 | 12 | 高度可定制的个人Home页，同时是强大的NAS服务控制台。 | 2023-04-24 07:35:35 |
-| [hajimari](https://github.com/toboshii/hajimari) | 775 | 37 | 67 | Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery. | 2023-05-25 01:21:11 |
-| [home.github.io](https://github.com/dmego/home.github.io) | 737 | 354 | 0 | 个人主页 | 2024-10-06 02:20:03 |
-| [benotes](https://github.com/fr0tt/benotes) | 728 | 48 | 25 | An open source self hosted notes and bookmarks taking web app. | 2023-11-04 13:35:30 |
+| [sou](https://github.com/5iux/sou) | 941 | 290 | 7 | 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。 | 2021-08-02 14:31:55 |
+| [Dashboard](https://github.com/leon-kfd/Dashboard) | 935 | 116 | 5 | Custom your personal browser start page from some configurable components. | 2024-10-10 03:25:57 |
+| [tilde](https://github.com/xvvvyz/tilde) | 824 | 265 | 3 | Minimal browser startpage. | 2024-09-30 04:04:47 |
+| [aquar-home](https://github.com/firemakergk/aquar-home) | 820 | 72 | 12 | 高度可定制的个人Home页，同时是强大的NAS服务控制台。 | 2023-04-24 07:35:35 |
+| [hajimari](https://github.com/toboshii/hajimari) | 777 | 37 | 68 | Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery. | 2023-05-25 01:21:11 |
+| [home.github.io](https://github.com/dmego/home.github.io) | 737 | 355 | 0 | 个人主页 | 2024-10-13 02:19:16 |
+| [benotes](https://github.com/fr0tt/benotes) | 733 | 48 | 24 | An open source self hosted notes and bookmarks taking web app. | 2023-11-04 13:35:30 |
 | [startpage](https://github.com/deepjyoti30/startpage) | 624 | 85 | 8 | A minimal starpage for Chrome and Firefox | 2023-02-01 08:41:08 |
 | [homepage](https://github.com/Jaredk3nt/homepage) | 519 | 152 | 3 | Custom homepage for use locally in browser | 2022-09-02 00:34:55 |
 | [Portal-Lite](https://github.com/Privoce/Portal-Lite) | 374 | 30 | 4 | Multi-platform Personalized Portal: Web, Browser Extension. All components are web apps--users can compose their own Portal freely, and developers can contribute to the Privoce Web App library to easily incorporate their web app to our Portal. | 2022-11-04 08:14:50 |
-| [startup-page](https://github.com/timothypholmes/startup-page) | 352 | 44 | 8 | A custom startup page for your browser.  | 2024-02-14 21:14:22 |
-| [Prismatic-Night](https://github.com/3r3bu5x9/Prismatic-Night) | 341 | 52 | 2 | A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta. | 2021-03-24 11:53:07 |
-| [mafl](https://github.com/hywax/mafl) | 326 | 21 | 14 | Minimalistic flexible homepage | 2024-10-06 19:00:25 |
+| [startup-page](https://github.com/timothypholmes/startup-page) | 351 | 44 | 8 | A custom startup page for your browser.  | 2024-02-14 21:14:22 |
+| [Prismatic-Night](https://github.com/3r3bu5x9/Prismatic-Night) | 340 | 52 | 2 | A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta. | 2021-03-24 11:53:07 |
+| [mafl](https://github.com/hywax/mafl) | 333 | 20 | 15 | Minimalistic flexible homepage | 2024-10-06 19:00:25 |
 | [simple-dash](https://github.com/kutyla-philipp/simple-dash) | 323 | 47 | 8 | A simple, fully responsive Dashboard to forward to the services of your choice! | 2019-10-10 13:02:37 |
-| [fluidity](https://github.com/PrettyCoffee/fluidity) | 293 | 157 | 4 | Fluidity - An accordion based startpage | 2023-08-04 21:31:04 |
-| [liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io) | 269 | 145 | 11 | None | 2023-09-15 14:11:29 |
+| [fluidity](https://github.com/PrettyCoffee/fluidity) | 292 | 157 | 4 | Fluidity - An accordion based startpage | 2023-08-04 21:31:04 |
+| [liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io) | 270 | 145 | 11 | None | 2023-09-15 14:11:29 |
 | [webstack-hugo](https://github.com/iplaycode/webstack-hugo) | 223 | 75 | 8 | Hugo版 WebStack 主题 Demo | 2022-11-14 05:29:28 |
 | [pomme-page](https://github.com/kikiklang/pomme-page) | 193 | 14 | 0 | Big buttons with easy click startpage for a browser.  | 2022-03-03 00:06:50 |
-| [startpages](https://github.com/grtcdr/startpages) | 191 | 28 | 0 | A collection of startpages for your favorite browser. | 2022-01-02 11:41:04 |
-| [the-glorious-startpage](https://github.com/eromatiya/the-glorious-startpage) | 185 | 36 | 1 | a glorified startpage | 2020-08-18 03:50:09 |
+| [startpages](https://github.com/grtcdr/startpages) | 190 | 28 | 0 | A collection of startpages for your favorite browser. | 2022-01-02 11:41:04 |
+| [the-glorious-startpage](https://github.com/eromatiya/the-glorious-startpage) | 185 | 35 | 1 | a glorified startpage | 2020-08-18 03:50:09 |
 | [slate](https://github.com/gesquive/slate) | 148 | 67 | 11 | a single-page speed-dial theme for Hugo | 2021-07-02 03:24:02 |
-| [docker-flame](https://github.com/soulteary/docker-flame) | 96 | 8 | 1 | 简洁美观的个人启动页，适用于 HomeLab 爱好者的中文化的自部署版本。 | 2022-01-30 12:31:25 |
-| [catppuccin-startpage](https://github.com/pivoshenko/catppuccin-startpage) | 87 | 64 | 0 | 🐱✨ Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages | 2024-10-05 17:58:30 |
+| [docker-flame](https://github.com/soulteary/docker-flame) | 97 | 8 | 1 | 简洁美观的个人启动页，适用于 HomeLab 爱好者的中文化的自部署版本。 | 2022-01-30 12:31:25 |
+| [catppuccin-startpage](https://github.com/pivoshenko/catppuccin-startpage) | 89 | 66 | 0 | 🐱✨ Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages | 2024-10-05 17:58:30 |
 | [easy-bookmark-manager](https://github.com/devimust/easy-bookmark-manager) | 63 | 11 | 4 | Easy and simple self-hosted bookmark / snippet management tool. | 2018-05-05 00:31:43 |
 | [homelab_proxy](https://github.com/JmzTaylor/homelab_proxy) | 23 | 0 | 1 | None | 2021-06-07 15:25:56 |
 | [iTab](https://www.itab.link/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 | [Infinity](https://en.infinitynewtab.com/) | 0 | 0 | 0 | no github | 2006-01-02 03:04:05 |
 
-*Last Automatic Update: 2024-10-07T02:12:59*
+*Last Automatic Update: 2024-10-14T02:13:09*
