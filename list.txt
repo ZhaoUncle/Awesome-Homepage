@@ -55,3 +55,4 @@ https://github.com/hywax/mafl
 https://github.com/hslr-s/sun-panel
 https://github.com/mattermost/focalboard
 https://github.com/hslr-s/sun-panel
+https://github.com/gethomepage/homepage
