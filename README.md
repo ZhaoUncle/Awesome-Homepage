@@ -59,7 +59,7 @@ source of inspiration：[jnmcfly/awesome-startpage](https://github.com/jnmcfly/a
 | [startpages](https://github.com/grtcdr/startpages) | 190 | 28 | 0 | A collection of startpages for your favorite browser. | 2022-01-02 11:41:04 |
 | [the-glorious-startpage](https://github.com/eromatiya/the-glorious-startpage) | 187 | 37 | 1 | a glorified startpage | 2020-08-18 03:50:09 |
 | [slate](https://github.com/gesquive/slate) | 149 | 65 | 11 | a single-page speed-dial theme for Hugo | 2021-07-02 03:24:02 |
-| [catppuccin-startpage](https://github.com/pivoshenko/catppuccin-startpage) | 132 | 127 | 0 | 🐱✨ Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages | 2025-01-26 12:27:56 |
+| [catppuccin-startpage](https://github.com/pivoshenko/catppuccin-startpage) | 132 | 127 | 0 | 🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages | 2025-01-26 12:27:56 |
 | [docker-flame](https://github.com/soulteary/docker-flame) | 101 | 8 | 1 | 简洁美观的个人启动页，适用于 HomeLab 爱好者的中文化的自部署版本。 | 2022-01-30 12:31:25 |
 | [easy-bookmark-manager](https://github.com/devimust/easy-bookmark-manager) | 66 | 11 | 4 | Easy and simple self-hosted bookmark / snippet management tool. | 2018-05-05 00:31:43 |
 | [homelab_proxy](https://github.com/JmzTaylor/homelab_proxy) | 23 | 0 | 1 | None | 2021-06-07 15:25:56 |
