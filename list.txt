@@ -56,3 +56,4 @@ https://github.com/hslr-s/sun-panel
 https://github.com/mattermost/focalboard
 https://github.com/hslr-s/sun-panel
 https://github.com/gethomepage/homepage
+https://icorner.net/,iCorner,no github
