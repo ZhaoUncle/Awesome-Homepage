@@ -54,5 +54,5 @@ https://github.com/RayeRen/acad-homepage.github.io
 https://github.com/hywax/mafl
 https://github.com/hslr-s/sun-panel
 https://github.com/mattermost/focalboard
-https://github.com/hslr-s/sun-panel
 https://github.com/gethomepage/homepage
+https://github.com/mina-ai-assistant/static-dashboard
